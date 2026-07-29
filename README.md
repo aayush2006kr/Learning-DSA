@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/aayush2006kr/Learning-DSA/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/aayush2006kr/Learning-DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/aayush2006kr/Learning-DSA/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/aayush2006kr/Learning-DSA/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/aayush2006kr/Learning-DSA/tree/master/0287-find-the-duplicate-number) |
 | [0876-middle-of-the-linked-list](https://github.com/aayush2006kr/Learning-DSA/tree/master/0876-middle-of-the-linked-list) |
 ## Sorting
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/aayush2006kr/Learning-DSA/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/aayush2006kr/Learning-DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/aayush2006kr/Learning-DSA/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/aayush2006kr/Learning-DSA/tree/master/0202-happy-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/aayush2006kr/Learning-DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/aayush2006kr/Learning-DSA/tree/master/0904-fruit-into-baskets) |
 ## String
@@ -74,4 +76,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/aayush2006kr/Learning-DSA/tree/master/0287-find-the-duplicate-number) |
+## Math
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/aayush2006kr/Learning-DSA/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
