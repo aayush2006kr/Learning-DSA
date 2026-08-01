@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/aayush2006kr/Learning-DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/aayush2006kr/Learning-DSA/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/aayush2006kr/Learning-DSA/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+| [1991-find-the-middle-index-in-array](https://github.com/aayush2006kr/Learning-DSA/tree/master/1991-find-the-middle-index-in-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/aayush2006kr/Learning-DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0724-find-pivot-index](https://github.com/aayush2006kr/Learning-DSA/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/aayush2006kr/Learning-DSA/tree/master/1004-max-consecutive-ones-iii) |
+| [1991-find-the-middle-index-in-array](https://github.com/aayush2006kr/Learning-DSA/tree/master/1991-find-the-middle-index-in-array) |
 ## Hash Table
 |  |
 | ------- |
