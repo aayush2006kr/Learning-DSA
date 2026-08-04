@@ -1,23 +1,23 @@
 class Solution {
 public:
     int subarraySum(vector<int>& nums, int k) {
-        unordered_map<int, int> mp;
-        mp[0] = 1;             
+       int Psum=0;
+       int res = 0;
+       unordered_map<int,int>mpp;
+       mpp[0]=1;
 
-        int prefixSum = 0;
-        int count = 0;
+        for(int i =0; i<nums.size() ;i++){
+            Psum += nums[i];
 
-        for (int num : nums) {
-            prefixSum += num;
+            int question = Psum-k;
+            int frequency = mpp[question];
 
-           
-            if (mp.find(prefixSum - k) != mp.end()) {
-                count += mp[prefixSum - k];
-            }
+            
+            res = res + frequency ;
 
-            mp[prefixSum]++;
+            mpp[Psum]++;
         }
 
-        return count;
+        return res;   
     }
 };;
