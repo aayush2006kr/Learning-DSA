@@ -31,7 +31,7 @@ public:
 
         for (int i = 0; i < intervals.size(); i++) {
 
-            if (!inserted && intervals[i][0] >= newInterval[0]) {
+            if (inserted==false && intervals[i][0] >= newInterval[0]) {
                 res.push_back(newInterval);
                 inserted = true;
             }
@@ -40,7 +40,7 @@ public:
         }
 
     
-        if (!inserted) {
+        if (inserted==false) {
             res.push_back(newInterval);
         }
 
