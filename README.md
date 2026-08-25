@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/aayush2006kr/Learning-DSA/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/aayush2006kr/Learning-DSA/tree/master/0057-insert-interval) |
 | [0075-sort-colors](https://github.com/aayush2006kr/Learning-DSA/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/aayush2006kr/Learning-DSA/tree/master/0088-merge-sorted-array) |
 | [0152-maximum-product-subarray](https://github.com/aayush2006kr/Learning-DSA/tree/master/0152-maximum-product-subarray) |
 | [0209-minimum-size-subarray-sum](https://github.com/aayush2006kr/Learning-DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/aayush2006kr/Learning-DSA/tree/master/0287-find-the-duplicate-number) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/aayush2006kr/Learning-DSA/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aayush2006kr/Learning-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/aayush2006kr/Learning-DSA/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/aayush2006kr/Learning-DSA/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/aayush2006kr/Learning-DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/aayush2006kr/Learning-DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/aayush2006kr/Learning-DSA/tree/master/0202-happy-number) |
@@ -48,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/aayush2006kr/Learning-DSA/tree/master/0016-3sum-closest) |
 | [0056-merge-intervals](https://github.com/aayush2006kr/Learning-DSA/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/aayush2006kr/Learning-DSA/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/aayush2006kr/Learning-DSA/tree/master/0088-merge-sorted-array) |
 ## Binary Search
 |  |
 | ------- |
