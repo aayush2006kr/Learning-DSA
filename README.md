@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0986-interval-list-intersections](https://github.com/aayush2006kr/Learning-DSA/tree/master/0986-interval-list-intersections) |
 | [1004-max-consecutive-ones-iii](https://github.com/aayush2006kr/Learning-DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/aayush2006kr/Learning-DSA/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
+| [1552-magnetic-force-between-two-balls](https://github.com/aayush2006kr/Learning-DSA/tree/master/1552-magnetic-force-between-two-balls) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/aayush2006kr/Learning-DSA/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1991-find-the-middle-index-in-array](https://github.com/aayush2006kr/Learning-DSA/tree/master/1991-find-the-middle-index-in-array) |
 ## Two Pointers
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/aayush2006kr/Learning-DSA/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/aayush2006kr/Learning-DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/aayush2006kr/Learning-DSA/tree/master/0088-merge-sorted-array) |
+| [1552-magnetic-force-between-two-balls](https://github.com/aayush2006kr/Learning-DSA/tree/master/1552-magnetic-force-between-two-balls) |
 ## Binary Search
 |  |
 | ------- |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/aayush2006kr/Learning-DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/aayush2006kr/Learning-DSA/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/aayush2006kr/Learning-DSA/tree/master/1004-max-consecutive-ones-iii) |
+| [1552-magnetic-force-between-two-balls](https://github.com/aayush2006kr/Learning-DSA/tree/master/1552-magnetic-force-between-two-balls) |
 ## Sliding Window
 |  |
 | ------- |
