@@ -25,7 +25,7 @@ public:
         long long low =0;
         long long high = 0;
         for(int i=0 ; i<n ; i++){
-            low  = max(low , (long long)nums[i]);//
+            low  = max(low , (long long )nums[i]);//
             high = high + nums[i];
         }
         long long res = -1;
