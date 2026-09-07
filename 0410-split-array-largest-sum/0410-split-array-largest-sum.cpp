@@ -38,6 +38,6 @@ public:
                 low = guess+1;
             }
         }
-        return (int)res;
+        return res;
     }
 };
