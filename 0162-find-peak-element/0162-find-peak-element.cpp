@@ -9,7 +9,7 @@ public:
             int guess = (low+high)/2;
             if (guess == nums.size() - 1 || nums[guess] > nums[guess + 1]) {
                 res = guess;
-                high = guess - 1;
+                high = guess-1;
             }
             else {
                 low = guess + 1;
