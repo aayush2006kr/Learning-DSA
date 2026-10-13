@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/aayush2006kr/Learning-DSA/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aayush2006kr/Learning-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/aayush2006kr/Learning-DSA/tree/master/0033-search-in-rotated-sorted-array) |
+| [0039-combination-sum](https://github.com/aayush2006kr/Learning-DSA/tree/master/0039-combination-sum) |
 | [0053-maximum-subarray](https://github.com/aayush2006kr/Learning-DSA/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/aayush2006kr/Learning-DSA/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/aayush2006kr/Learning-DSA/tree/master/0057-insert-interval) |
@@ -302,4 +303,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/aayush2006kr/Learning-DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/aayush2006kr/Learning-DSA/tree/master/0022-generate-parentheses) |
+| [0039-combination-sum](https://github.com/aayush2006kr/Learning-DSA/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
