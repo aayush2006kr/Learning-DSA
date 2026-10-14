@@ -220,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/aayush2006kr/Learning-DSA/tree/master/0020-valid-parentheses) |
+| [0145-binary-tree-postorder-traversal](https://github.com/aayush2006kr/Learning-DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0496-next-greater-element-i](https://github.com/aayush2006kr/Learning-DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/aayush2006kr/Learning-DSA/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/aayush2006kr/Learning-DSA/tree/master/0739-daily-temperatures) |
@@ -306,4 +307,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/aayush2006kr/Learning-DSA/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/aayush2006kr/Learning-DSA/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/aayush2006kr/Learning-DSA/tree/master/0046-permutations) |
+## Tree
+|  |
+| ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/aayush2006kr/Learning-DSA/tree/master/0145-binary-tree-postorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/aayush2006kr/Learning-DSA/tree/master/0145-binary-tree-postorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/aayush2006kr/Learning-DSA/tree/master/0145-binary-tree-postorder-traversal) |
 <!---LeetCode Topics End-->
