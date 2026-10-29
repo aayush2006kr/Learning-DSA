@@ -18,7 +18,7 @@ public:
         if(root->left == NULL &&  root->right == NULL){
           
                 res = sum + res;
-                return;
+                
             
         }
         fun(root->left , sum );
